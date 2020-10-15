@@ -35,3 +35,8 @@
 - ~~Like feed posts~~
 -- ~~Restrict from liking own post~~
 
+#### Nam's experiences
+
+- Use scikit-learn ver >= 0.22.2 to avoid error from import profanity_check lib
+- **Press** Enter to continue when cmd suddenly suspend
+
